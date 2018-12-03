@@ -1,0 +1,14 @@
+{
+  "name": "getuserip",
+  "version": "1.0.0",
+  "description": "get user ip",
+  "main": "index.js",
+  "repository": "https://github.com/ksunilssah/getUserIP.git",
+  "author": "ksunilssah@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-ip": "^1.0.3",
+    "ngrok": "^3.1.0"
+  }
+}
